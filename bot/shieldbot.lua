@@ -249,7 +249,15 @@ function create_config( )
     "set_type",
     "welcome",
     "sh",
-    "serverinfo"
+    "serverinfo",
+    "help",
+    "write",
+    "lock_video",
+    "lock_chat",
+    "lock_join",
+    "time",
+    "times",
+    "pl",
     },
     sudo_users = {189308877},--Sudo users
     moderation = {data = 'data/moderation.json'},
